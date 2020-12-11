@@ -1,5 +1,5 @@
 {
-   "commerceSuiteVersion": "1905",
+   "commerceSuiteVersion": "1905.19",
    "extensions": [
     "yacceleratorstorefront",
     "backoffice",
@@ -53,27 +53,7 @@
             "addon": "personalizationaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "personalizationsampledataaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "personalizationpromotionssampledataaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "personalizationsearchsamplesaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
-        {
-            "addon": "personalizationyprofilesampledataaddon",
-            "storefront": "yacceleratorstorefront",
-            "template": "yacceleratorstorefront"
-        },
+        }
         {
             "addon": "multicountrysampledataaddon",
             "storefront": "yacceleratorstorefront",
