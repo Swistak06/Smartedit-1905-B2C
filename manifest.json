@@ -53,7 +53,7 @@
             "addon": "personalizationaddon",
             "storefront": "yacceleratorstorefront",
             "template": "yacceleratorstorefront"
-        }
+        },
         {
             "addon": "multicountrysampledataaddon",
             "storefront": "yacceleratorstorefront",
